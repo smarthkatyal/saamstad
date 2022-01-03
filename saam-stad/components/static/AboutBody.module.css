@@ -1,0 +1,28 @@
+.body {
+    height: 100%;
+    font-size: 16px;
+    font-weight: lighter;
+    font-family: barlow-extralight, barlow, sans-serif;
+    line-height: 2em;
+    color: rgb(65, 65, 65);
+}
+
+.center {
+    align-content: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+    font-size: 18px
+}
+
+.body strong {
+    font-weight: normal;
+}
+
+.center strong {
+    font-weight: normal;
+}
+
+.boldItalics {
+    font-weight: normal;
+}

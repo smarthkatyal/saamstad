@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c03845-baaf-42fd-babd-730dff6a7cc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/nav/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/nav/Nav.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/Banner.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/nav/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/nav/Layout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/static/AboutBody.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/static/AboutBody.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/static/ServicesBody.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/static/ServicesBody.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/nav/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/Nav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/Banner.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Banner.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +50,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/nav" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19825707" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/nav" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,11 +79,16 @@
       <option name="presentableId" value="Default" />
       <updated>1641210240016</updated>
       <workItem from="1641210243476" duration="376000" />
-      <workItem from="1641210630301" duration="3307000" />
+      <workItem from="1641210630301" duration="3459000" />
+      <workItem from="1641222573346" duration="6221000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
