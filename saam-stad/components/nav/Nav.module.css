@@ -1,0 +1,22 @@
+.nav{
+    white-space: nowrap;
+    display: inline-flex;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.nav img{
+    padding-left: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+.nav h5{
+    padding-left: 100px;
+    font-size: 35px;
+    position: relative;
+    align-content: space-evenly;
+    width: 50%;
+    text-align: center;
+    font-family: sans-serif;
+}

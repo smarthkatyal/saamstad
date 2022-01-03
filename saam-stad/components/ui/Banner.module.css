@@ -1,0 +1,9 @@
+.bannerTitle {
+    position: absolute;
+    text-align:center;
+    letter-spacing:0.15em;
+    color:white;
+    background-color: rgb(34,34,34);
+    font: normal normal 70px/2.4em sans-serif;
+    width: 100%;
+}
