@@ -27,7 +27,7 @@ const AboutBody = () => {
       <p>
         The fusion of our expertise in architecture, communications and research
         combined with shared knowledge in urban management and development
-        stimulates <strong>SAAM stad</strong>'s holistic approach towards
+        stimulates <strong>SAAM stad</strong>&apos;s holistic approach towards
         today’s most pressing urban challenges.
       </p>
     </div>
