@@ -1,11 +1,12 @@
 import classes from "./Nav.module.css";
 import Link from "next/link";
+import Image from "next/image";
 
 const Nav = (props) => {
   return (
     <header>
       <div className={classes.nav}>
-        <img src="icon.webp" alt={"SAAM-Stad logo"} />
+        <Image src="icon.webp" alt={"SAAM-Stad logo"} />
         <p>Shaping cities together</p>
         <nav>
           <ul>
