@@ -50,11 +50,17 @@ const HomePageSlider = () => {
 
   const sliderClickHandler = () => {};
   let slides = [
-    <Image key="1" src="advise.png" alt="1" />,
-    <Image key="2" src="assess.png" alt="2" />,
-    <Image key="3" src="identify.png" alt="3" />,
-    <Image key="4" src="shape.png" alt="4" />,
-    <Image key="5" src="strategize.png" alt="5" />,
+    <Image key="1" src="/advise.png" alt="1" width="1900px" height="720px" />,
+    <Image key="2" src="/assess.png" alt="2" width="1900px" height="720px" />,
+    <Image key="3" src="/identify.png" alt="3" width="1900px" height="720px" />,
+    <Image key="4" src="/shape.png" alt="4" width="1900px" height="720px" />,
+    <Image
+      key="5"
+      src="/strategize.png"
+      alt="5"
+      width="1900px"
+      height="720px"
+    />,
   ];
 
   return (

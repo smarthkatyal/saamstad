@@ -6,7 +6,12 @@ const Nav = (props) => {
   return (
     <header>
       <div className={classes.nav}>
-        <Image src="icon.webp" alt={"SAAM-Stad logo"} />
+        <Image
+          src="/icon.webp"
+          alt={"SAAM-Stad logo"}
+          width="110"
+          height="110"
+        />
         <p>Shaping cities together</p>
         <nav>
           <ul>
