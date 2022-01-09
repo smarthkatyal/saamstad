@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c03845-baaf-42fd-babd-730dff6a7cc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/static/HomePageSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/static/HomePageSlider.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/advise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/identify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/strategize.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/nav/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/nav/Layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/Layout.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/static/AboutBody.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/static/AboutBody.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/static/AboutBody.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/static/AboutBody.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/static/ServicesBody.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/static/ServicesBody.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +77,9 @@
       <recent name="$PROJECT_DIR$/components/nav" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +91,10 @@
       <updated>1641210240016</updated>
       <workItem from="1641210243476" duration="376000" />
       <workItem from="1641210630301" duration="3459000" />
-      <workItem from="1641222573346" duration="6542000" />
+      <workItem from="1641222573346" duration="7156000" />
+      <workItem from="1641312871182" duration="3662000" />
+      <workItem from="1641386541286" duration="340000" />
+      <workItem from="1641665441798" duration="5720000" />
     </task>
     <servers />
   </component>

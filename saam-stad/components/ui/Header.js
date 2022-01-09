@@ -26,7 +26,7 @@ const Header = (props) => {
         <link rel="icon" href="/icon.webp" />
       </Head>
       <Nav />
-      <div>{displayName && <Banner bannerTitle={displayName} />}</div>
+      {displayName && <Banner bannerTitle={displayName} />}
     </>
   );
 };

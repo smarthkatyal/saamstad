@@ -1,0 +1,21 @@
+.slider {
+    height: max-content;
+    margin: 0;
+    padding-top: 50px;
+}
+
+.slide {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 720px;
+    width: 1900px;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 0px;
+}
+
+.slider img:hover{
+    cursor: pointer
+}
