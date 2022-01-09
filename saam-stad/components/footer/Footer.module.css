@@ -1,0 +1,16 @@
+.footer {
+    text-align: end;
+    list-style: none;
+    width: 100%;
+    display: inline-flex;
+    align-items: baseline;
+    align-content: center;
+    justify-content: center;
+    padding-left: 0;
+
+}
+
+.footer li {
+    align-content: center;
+    margin-left: 1rem;
+}

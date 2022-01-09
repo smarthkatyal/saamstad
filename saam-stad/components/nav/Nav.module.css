@@ -5,11 +5,11 @@
     align-items: center;
 }
 
-.nav Image {
+.nav img  {
     padding-left: 40px;
     padding-top: 40px;
-    width: 110px;
-    height: 110px;
+    width: 120px;
+    height: 120px;
 }
 
 .nav p {
