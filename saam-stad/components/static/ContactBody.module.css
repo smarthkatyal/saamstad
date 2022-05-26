@@ -1,0 +1,19 @@
+.body {
+    font-size: 17px;
+    font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+    line-height: 2em;
+    letter-spacing: 0.1em;
+    color: rgb(100, 100, 100);
+    font-weight:lighter;
+    padding-top: 200px;
+    margin: 3rem auto;
+    max-width: 30rem;
+}
+
+.center {
+    align-content: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+    font-size: 18px
+}

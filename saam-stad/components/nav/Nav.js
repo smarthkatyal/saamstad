@@ -1,6 +1,5 @@
 import classes from "./Nav.module.css";
 import Link from "next/link";
-import Image from "next/image";
 
 const Nav = (props) => {
   return (

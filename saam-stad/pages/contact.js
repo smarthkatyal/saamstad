@@ -1,26 +1,12 @@
+import ContactBody from "../components/static/ContactBody";
+import AboutBody from "../components/static/AboutBody";
+
 const Contact = () => {
   return (
     <>
-      <br /> <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <p>Coming soon!</p>
+      <div>
+        <ContactBody />
+      </div>
     </>
   );
 };

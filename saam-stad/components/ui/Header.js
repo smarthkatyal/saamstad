@@ -7,7 +7,6 @@ const Header = (props) => {
   const router = useRouter();
 
   function getDisplayNameForPath(pathname) {
-    console.log(pathname);
     if (pathname === "/about") return "ABOUT US";
     if (pathname === "/services") return "SERVICES";
     if (pathname === "/contact") return "LET'S TALK";
