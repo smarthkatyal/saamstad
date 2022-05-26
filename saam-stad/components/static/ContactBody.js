@@ -6,7 +6,11 @@ const ContactBody = () => {
       <p className={classes.center}>Connect with us on:</p>
       <p className={classes.center}>
         <b>
-          <a target="_blank" href="mailto:contact@saamstad.com">
+          <a
+            target="_blank"
+            href="mailto:contact@saamstad.com"
+            rel="noreferrer noopener"
+          >
             contact@saamstad.com
           </a>
         </b>
